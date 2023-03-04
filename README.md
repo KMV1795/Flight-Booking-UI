@@ -1,6 +1,6 @@
 # my_app
 
-A new Flutter project.
+A responsive UI for booking flight tickets.(Currently Under Process).
 
 ## Getting Started
 
